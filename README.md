@@ -43,6 +43,5 @@ I have been learning code since 2020 and have learned many skills throughout thi
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/app/shirwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="150"></a>
-<a href="https://www.buymeacoffee.com/shirwan" align="left"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="150"/></a>
 
 <kbd>Alt+F4</kbd>
