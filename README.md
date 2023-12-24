@@ -10,12 +10,12 @@
 
   I have been learning code since 2020 and have learned many skills throughout this.
   
-  * I am based in the United Kingdom
-  * See my portfolio for more information and projects at [anevilbrit.github.io](http://anevilbrit.github.io)
+  I am based in the United Kingdom
+  See my portfolio for more information and projects at [anevilbrit.github.io](http://anevilbrit.github.io)
   
   ### Skills
   
-  <p align="left">
+  <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Html.png" width="36" height="36" alt="HTML5"/></a> 
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Css.png" width="36" height="36" alt="CSS3"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/JavaScript.png" width="36" height="36" alt="JavaScript"/></a> 
@@ -31,7 +31,8 @@
   
   ### Socials
   
-  <p align="left"><a href="https://discord.com/users/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Discord.png" width="32" height="32"/></a> 
+  <p>
+    <a href="https://discord.com/users/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Discord.png" width="32" height="32"/></a> 
     <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Github.png" width="32" height="32"/></a> 
     <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/X.png" width="32" height="32"/></a> 
     <a href="https://www.youtube.com/@anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Youtube.png" width="32" height="32"/></a> 
@@ -40,7 +41,7 @@
   
   ### Badges
   
-  <a href="https://github.com/anevilbrit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevilbrit&langs_count=10&title_color=fff&text_color=fff&icon_color=0063cf&bg_color=222&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+  <a href="https://github.com/anevilbrit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevilbrit&langs_count=10&title_color=fff&text_color=fff&icon_color=0063cf&bg_color=222&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
   
   ### Support Me
   
