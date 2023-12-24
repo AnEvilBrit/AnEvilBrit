@@ -29,11 +29,11 @@ I have been learning code since 2020 and have learned many skills throughout thi
 
 ### Socials
 
-<p align="left"><a href="https://discord.com/users/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> 
-  <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a> 
-  <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a> 
-  <a href="https://www.youtube.com/@anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32"/></a> 
-  <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32"/></a>
+<p align="left"><a href="https://discord.com/users/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Discord.png" width="32" height="32"/></a> 
+  <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Github.png" width="32" height="32"/></a> 
+  <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/X.png" width="32" height="32"/></a> 
+  <a href="https://www.youtube.com/@anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Youtube.png" width="32" height="32"/></a> 
+  <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Twitch.png" width="32" height="32"/></a>
 </p>
 
 ### Badges
