@@ -6,10 +6,10 @@ I have been learning code since 2020 and have learned many skills throughout thi
 * I am based in the United Kingdom
 * See my portfolio for more information and projects at [anevilbrit.github.io](http://anevilbrit.github.io)
 
-<a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anevilbrit?logo=github&style=for-the-badge&color=#0063cf&labelColor=222"/></a> 
-<a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=#0063cf&labelColor=222"/></a> 
-<a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&style=for-the-badge&color=#0063cf&labelColor=222"/></a> 
-<a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&style=for-the-badge&color=#0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
+<a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anevilbrit?logo=github&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
+<a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
+<a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
+<a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
 
 ### Skills
 
@@ -38,7 +38,7 @@ I have been learning code since 2020 and have learned many skills throughout thi
 
 ### Badges
 
-<a href="https://github.com/anevilbrit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevilbrit&langs_count=10&title_color=fff&text_color=fff&icon_color=#0063cf&bg_color=222&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+<a href="https://github.com/anevilbrit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevilbrit&langs_count=10&title_color=fff&text_color=fff&icon_color=0063cf&bg_color=222&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
 
 ### Support Me
 
