@@ -4,7 +4,7 @@ Hi! My name is Shirwan (Evil)
 I have been learning code since 2020 and have learned many skills throughout this.
 
 * I am based in the United Kingdom
-* See my portfolio for more information and projects at [AnEvilBrit.github.io](http://anevilbrit.github.io)
+* See my portfolio for more information and projects at [anevilbrit.github.io](http://anevilbrit.github.io)
 
 <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anevilbrit?logo=github&style=for-the-badge&color=0891b2&labelColor=222"/></a> 
 <a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=0891b2&labelColor=222"/></a> 
