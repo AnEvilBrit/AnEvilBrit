@@ -7,7 +7,6 @@ Hi! My name is Shirwan (Evil)
 <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
 
 ===============================================================================================================================
-
 I have been learning code since 2020 and have learned many skills throughout this.
 
 * I am based in the United Kingdom
