@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Hi! My name is Shirwan (Evil)</h1>
-Some content
+
 - - - -
 <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anevilbrit?logo=github&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
 <a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
