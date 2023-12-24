@@ -11,7 +11,7 @@
   I have been learning code since 2020 and have learned many skills throughout this.
   
   <p>I am based in the United Kingdom</p>
-  <p>See my portfolio for more information, skills I have and projects at [anevilbrit.github.io](http://anevilbrit.github.io)</p>
+  See my portfolio for more information, skills I have and projects at [anevilbrit.github.io](http://anevilbrit.github.io)
   
   ### Skills
   
