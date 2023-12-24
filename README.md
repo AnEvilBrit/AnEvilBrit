@@ -8,8 +8,8 @@ I have been learning code since 2020 and have learned many skills throughout thi
 
 <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anevilbrit?logo=github&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
 <a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
-<a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
-<a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
+<a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
+<a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
 
 ### Skills
 
