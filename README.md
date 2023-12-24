@@ -1,10 +1,10 @@
 Hi! My name is Shirwan (Evil)
 ===============================================================================================================================
 
-I have been leaning code since 2020 and have learned many skills throughout this.
+I have been learning code since 2020 and have learned many skills throughout this.
 
-* 🌍  I'm based in the United Kingdom
-* 🖥️  See my portfolio at [AnEvilBrit.github.io](http://anevilbrit.github.io)
+* I am based in the United Kingdom
+* See my portfolio for more information and projects at [AnEvilBrit.github.io](http://anevilbrit.github.io)
 
 <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anevilbrit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/></a>
 
