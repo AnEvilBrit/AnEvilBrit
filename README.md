@@ -22,4 +22,5 @@ I have been leaning code since 2020 and have learned many skills throughout this
 
 ### Support Me
 
+<a href="https://www.buymeacoffee.com/shirwan" align="left"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" /></a>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shirwan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
