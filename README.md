@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shirwan (Evil)
+Hi! My name is Shirwan (Evil)
 ===============================================================================================================================
 
 I have been leaning code since 2020 and have learned many skills throughout this.
