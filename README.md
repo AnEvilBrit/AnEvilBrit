@@ -25,6 +25,9 @@
     <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Raspberry.png" width="36" height="36" alt="Raspberry Pi"/></a> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Python.png" width="36" height="36" alt="Python"/></a> 
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Photoshop.png" width="36" height="36" alt="Photoshop"/></a> 
+    <a href="https://www.adobe.com/uk/creativecloud/3d-ar.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Substance.png" width="36" height="36" alt="Substance"/></a> 
+    <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/After.png" width="36" height="36" alt="After Effects"/></a> 
+    <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Premiere.png" width="36" height="36" alt="Premiere"/></a> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Blender.png" width="36" height="36" alt="Blender"/></a> 
     <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Unreal.png" width="36" height="36" alt="Unreal"/></a> 
   </p>
