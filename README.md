@@ -26,7 +26,6 @@
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Photoshop.png" width="36" height="36" alt="Photoshop"/></a> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Blender.png" width="36" height="36" alt="Blender"/></a> 
     <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Unreal.png" width="36" height="36" alt="Unreal"/></a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/></a>
   </p>
   
   ### Socials
