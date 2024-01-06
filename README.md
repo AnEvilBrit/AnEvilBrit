@@ -15,7 +15,7 @@
   See my portfolio for more information, skills I have and projects at [anevilbrit.github.io](http://anevilbrit.github.io/ "My Portfolio")
   
   ### Skills
-  
+  <sub><sup>(If you cannot see the images, please for the love of god use dark mode)</sup></sub>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Html.png" width="36" height="36" alt="HTML5"/></a> 
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Css.png" width="36" height="36" alt="CSS3"/></a> 
