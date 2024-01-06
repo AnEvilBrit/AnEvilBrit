@@ -49,7 +49,7 @@
   <a href="https://wakatime.com/@AnEvilBrit"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnEvilBrit&layout=compact"/></a>
   ### Support Me
   
-  <a href="https://www.buymeacoffee.com/app/shirwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="150"></a>
+  <a href="https://www.buymeacoffee.com/shirwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="150"></a>
   
   <kbd>Alt+F4</kbd>
 </div>
