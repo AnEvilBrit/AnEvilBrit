@@ -46,6 +46,8 @@
   
   <a href="https://github.com/anevilbrit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevilbrit&langs_count=10&title_color=fff&text_color=fff&icon_color=0063cf&bg_color=222&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
   
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnEvilBrit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
   ### Support Me
   
   <a href="https://www.buymeacoffee.com/app/shirwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="150"></a>
