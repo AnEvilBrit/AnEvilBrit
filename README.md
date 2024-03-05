@@ -8,7 +8,7 @@
   <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
   - - - -
 
-  I have been learning code since 2020 and have learned many skills throughout this.
+  I have been learning game development since 2022 and have learned many skills throughout this. I do hope to learn more skills as I progress throughout the years.
   
   <p>I am based in the United Kingdom</p>
   
