@@ -34,7 +34,7 @@
   ### Socials
   
   <p>
-    <a href="https://discord.com/users/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Discord.png" width="32" height="32"/></a> 
+    <a href="https://discord.com/users/548855199377129472" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Discord.png" width="32" height="32"/></a> 
     <a href="https://www.github.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Github.png" width="32" height="32"/></a> 
     <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/X.png" width="32" height="32"/></a> 
     <a href="https://www.youtube.com/@anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Youtube.png" width="32" height="32"/></a> 
