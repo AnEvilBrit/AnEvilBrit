@@ -50,5 +50,5 @@
   
   <a href="https://www.buymeacoffee.com/shirwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="150"></a>
   
-  <kbd>Alt+F4</kbd>
+  <kbd>Alt</kbd> + <kbd>F4</kbd>
 </div>
