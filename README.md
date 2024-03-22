@@ -40,11 +40,14 @@
     <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Twitch.png" width="32" height="32"/></a>
   </p>
   
-  ### Badges
+  ### Top Languages
   
   <a href="https://github.com/anevilbrit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevilbrit&langs_count=10&title_color=fff&text_color=fff&icon_color=0063cf&bg_color=222&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+
+  ### Recent Languages
   
   <a href="https://wakatime.com/@AnEvilBrit"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnEvilBrit&layout=compact"/></a>
+  
   ### Support Me
   
   <a href="https://www.buymeacoffee.com/shirwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="150"></a>
