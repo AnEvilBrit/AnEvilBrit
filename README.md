@@ -30,7 +30,7 @@
     <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Premiere.png" width="36" height="36" alt="Premiere"/></a> 
   </p>
   
-  ### <u>Socials</u>
+  ### Socials
   
   <p>
     <a href="https://discord.com/users/548855199377129472" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnEvilBrit/AnEvilBrit/main/Images/Discord.png" width="32" height="32"/></a> 
