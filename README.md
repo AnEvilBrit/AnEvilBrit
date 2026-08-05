@@ -20,7 +20,8 @@
 
   ### Recent Languages
   
-  <a href="https://wakatime.com/@AnEvilBrit"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnEvilBrit&layout=compact"/></a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
   ### Support Me
   
