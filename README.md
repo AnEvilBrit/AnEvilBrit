@@ -18,7 +18,7 @@
 
   <div align="center">
   <!--START_SECTION:top_language-->
-```text
+```txt
 C++           839.33 MiB ██████████████████░░░░░░░   74.41 %
 Mathematica   127.63 MiB ██░░░░░░░░░░░░░░░░░░░░░░░   11.31 %
 C#             47.62 MiB █░░░░░░░░░░░░░░░░░░░░░░░░    4.22 %
