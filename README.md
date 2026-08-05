@@ -6,12 +6,12 @@
   <a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
   <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
   <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
-
-  I have been learning game development since 2022 and have learned many skills. I plan to learn more skills as I progress throughout the years.
   
-  <p>I am based in the United Kingdom</p>
+  I have been learning game development since 2022 and have learned many languages and skills. I love going into engines and creating small projects that enhance my skillset.
+  I am based in the United Kingdom 🇬🇧, where I have studied games development at university.
   
-  See my portfolio for more information, skills, and projects at [shirwan.dev](http://shirwan.dev/)
+  See my portfolio for my projects, skills and more at [shirwan.dev](http://shirwan.dev/)
+  Have a look at my blogs! [blog.shirwan.dev](http://blog.shirwan.dev/)
   
   ### Top Languages
 
