@@ -15,7 +15,8 @@
   See my portfolio for more information, skills, and projects at [shirwan.dev](http://shirwan.dev/)
   
   ### Top Languages
-  
+
+  <div align="center">
   <!--START_SECTION:top_language-->
 ```text
 C++           839.33 MiB ██████████████████░░░░░░░   74.41 %
@@ -29,10 +30,12 @@ TypeScript      5.15 MiB ░░░░░░░░░░░░░░░░░░�
 CMake           3.98 MiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.35 %
 Objective-C     3.04 MiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.27 %
 ```
-<!--END_SECTION:top_language-->
+  <!--END_SECTION:top_language-->
+  </div>
 
   ### Recent Languages
   
+  <div align="center">
   <!--START_SECTION:waka-->
 
 ```txt
@@ -43,7 +46,8 @@ Objective-C         31 mins               ▒░░░░░░░░░░░�
 JSON                16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  </div>
   
   ### Support Me
   
