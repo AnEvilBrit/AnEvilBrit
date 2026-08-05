@@ -21,7 +21,16 @@
   ### Recent Languages
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+C++                 22 hrs 33 mins        █████████████████████░░░░   83.49 %
+PHP                 1 hr 34 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+C/C                 1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Objective-C         31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+JSON                16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+```
+
+<!--END_SECTION:waka-->
   
   ### Support Me
   
