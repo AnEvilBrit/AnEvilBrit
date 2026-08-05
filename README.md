@@ -6,7 +6,6 @@
   <a href="https://www.youtube.com/channel/UCBkX7K_wKjUW1O_QuufYD5A" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCBkX7K_wKjUW1O_QuufYD5A?logo=youtube&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
   <a href="https://www.x.com/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anevilbrit?logo=twitter&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222"/></a> 
   <a href="https://www.twitch.tv/anevilbrit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/anevilbrit?logo=twitch&logoColor=fff&style=for-the-badge&color=0063cf&labelColor=222&label=TWITCH+STATUS"/></a>
-  - - - -
 
   I have been learning game development since 2022 and have learned many skills. I plan to learn more skills as I progress throughout the years.
   
@@ -16,7 +15,6 @@
   
   ### Top Languages
 
-  <div align="center">
   <!--START_SECTION:top_language-->
     
 ```txt
@@ -33,11 +31,9 @@ Objective-C     3.04 MiB ░░░░░░░░░░░░░░░░░░�
 ```
 
   <!--END_SECTION:top_language-->
-  </div>
 
   ### Recent Languages
   
-  <div align="center">
   <!--START_SECTION:waka-->
 
 ```txt
@@ -49,7 +45,6 @@ JSON                16 mins               ▒░░░░░░░░░░░�
 ```
 
   <!--END_SECTION:waka-->
-  </div>
   
   ### Support Me
   
