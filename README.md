@@ -16,8 +16,7 @@
   ### Top Languages
 
   <!--START_SECTION:top_language-->
-    
-```txt
+```text
 C++           839.33 MiB ██████████████████░░░░░░░   74.41 %
 Mathematica   127.63 MiB ██░░░░░░░░░░░░░░░░░░░░░░░   11.31 %
 C#             47.62 MiB █░░░░░░░░░░░░░░░░░░░░░░░░    4.22 %
@@ -29,8 +28,7 @@ TypeScript      5.15 MiB ░░░░░░░░░░░░░░░░░░�
 CMake           3.98 MiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.35 %
 Objective-C     3.04 MiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.27 %
 ```
-
-  <!--END_SECTION:top_language-->
+<!--END_SECTION:top_language-->
 
   ### Recent Languages
   
