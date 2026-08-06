@@ -42,7 +42,7 @@ Objective-C         31 mins               ▒░░░░░░░░░░░�
 JSON                16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   ### Support Me
   
